@@ -1,0 +1,18 @@
+.block1
+{
+	text-align:center;
+	width:100%;
+}
+table
+{
+	margin:50px auto;
+}
+input[name=hobby]
+{
+	width:200px;
+	height:100px;
+}
+input[type=submit]
+{
+	cursor:pointer;
+}
